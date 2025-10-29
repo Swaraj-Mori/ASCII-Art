@@ -1,6 +1,6 @@
 # ASCII Art
 
-Transform any image into **ASCII art** and export it as a **dark-mode PDF** — all in pure Python.  
+Transform any image into **[ASCII art](https://en.wikipedia.org/wiki/ASCII_art)** and export it as a **dark-mode PDF** — all in pure Python.  
 This project uses pixel brightness values to generate detailed ASCII visualizations that resemble the original image.
 
 ---
