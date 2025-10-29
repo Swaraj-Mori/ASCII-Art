@@ -1,6 +1,7 @@
 # ASCII Art
 
 Transform any image into **[ASCII art](https://en.wikipedia.org/wiki/ASCII_art)** and export it as a **dark-mode PDF** — all in pure Python.  
+ASCII art is a graphic design technique that uses the 95 printable characters from the American Standard Code for Information Interchange (ASCII) to create images
 This project uses pixel brightness values to generate detailed ASCII visualizations that resemble the original image.
 
 ---
