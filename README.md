@@ -34,6 +34,6 @@ Follow these steps to use and customize the ASCII Art to PDF Generator:
 - Open a terminal inside the project folder.  
 - Run:
   ```bash
-  python ascii_to_pdf.py
+  python ASCII_art.py
 
-**Recommended:** Open the PDF in Google Chrome for the best dark-mode rendering and text clarity.
+**Recommended:** Open the PDF in *Google Chrome* for the best dark-mode rendering and text clarity.
