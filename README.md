@@ -20,3 +20,20 @@ This project uses pixel brightness values to generate detailed ASCII visualizati
 - [Pillow](https://pillow.readthedocs.io/) – for image processing  
 - [NumPy](https://numpy.org/) – for pixel array manipulation  
 - [ReportLab](https://www.reportlab.com/) – for PDF creation  
+
+## Instructions
+
+Follow these steps to use and customize the ASCII Art to PDF Generator:
+
+### 1. Prepare the Image
+- Choose a **clear image** (preferably with good contrast).  
+- Rename it (optional) and place it inside the `ASCII_art/` folder.  
+- Recommended formats: `.jpg`, `.png`, `.jpeg`.
+
+### 2. Run the Script
+- Open a terminal inside the project folder.  
+- Run:
+  ```bash
+  python ascii_to_pdf.py
+
+**Recommended:** Open the PDF in Google Chrome for the best dark-mode rendering and text clarity.
